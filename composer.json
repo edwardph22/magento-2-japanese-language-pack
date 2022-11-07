@@ -1,0 +1,26 @@
+{
+  "name": "landofcoder/magento-2-japanese-language-pack",
+  "description": "Japanese language package for Magento 2",
+  "homepage": "https://landofcoder.com",
+  "require": {
+  },
+  "type": "magento2-language",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "license": [
+    "MIT"
+  ],
+  "authors": [
+    {
+      "name": "Landofcoder team",
+      "email": "info@landofcoder.com",
+      "homepage": "https://landofcoder.com",
+      "role": "Magento 2 Solution Provider"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
